@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ratnesh%20P&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Security%20Engineer%20%7C%20AI%2FML%20Researcher%20%7C%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Pre-final+year+CS+student+%7C+GPA+9.38%2F10;Patent+Holder+%E2%80%A2+GDG+Lead+%E2%80%A2+National+Hackathon+Finalist;Offensive+Security+%E2%80%A2+AI%2FML+%E2%80%A2+Web3+%E2%80%A2+Cloud+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Final+year+CS+student+%7C+GPA+9.38%2F10;Patent+Holder+%E2%80%A2+GDG+Lead+%E2%80%A2+National+Hackathon+Finalist;Offensive+Security+%E2%80%A2+AI%2FML+%E2%80%A2+Web3+%E2%80%A2+Cloud+Security)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:ratneshp1108@gmail.com"><img src="https://img.shields.io/badge/Email-ratneshp1108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
