@@ -8,7 +8,7 @@
   <a href="mailto:ratneshp1108@gmail.com"><img src="https://img.shields.io/badge/Email-ratneshp1108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rpatnaik1122"><img src="https://img.shields.io/badge/LinkedIn-rpatnaik1122-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/Ratnesh.p"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ratneshS0411"><img src="https://img.shields.io/badge/LeetCode-Top%2020%25%20%7C%20125%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/ratneshS0411"><img src="https://img.shields.io/badge/LeetCode-Top%2020%25%20%7C%20150%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <p align="center">
