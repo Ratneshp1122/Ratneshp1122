@@ -335,4 +335,4 @@ Distributed Red Team intelligence platform — high-concurrency subdomain discov
 
 </div>
 
-<sub><sup>Alternate contact: Suhana Bafna · bafnasuhana@gmail.com · 8602296230</sup></sub>
+
