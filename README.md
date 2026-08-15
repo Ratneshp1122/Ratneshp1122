@@ -291,8 +291,11 @@ Distributed Red Team intelligence platform — high-concurrency subdomain discov
 🏢 Borderless World Foundation          Web Developer Intern       Feb 2026 – May 2026
    └── MERN platform (500+ users) · sub-200ms latency · financial data viz · content moderation
 
-🏢 Palo Alto Networks                   Virtual Cybersecurity Intern  Jan 2026 – Mar 2026
+🏢 Palo Alto Networks                   Cybersecurity Intern  Jan 2026 – Mar 2026
    └── SIEM correlation · Cortex XDR · MITRE ATT&CK T1021/T1078 · IR lifecycle · 50% overhead reduction
+
+🏢 Oracle Cloud Infrastructure                  Cybersecurity Intern  Jun 2026 – Present
+   └── Managed different testing processes for golden firmware devices and was responsible for development of scripts to automate them.
 ```
 
 ---
@@ -331,3 +334,5 @@ Distributed Red Team intelligence platform — high-concurrency subdomain discov
 *"Security is not a product, but a process — and I'm here to build both."*
 
 </div>
+
+<sub><sup>Alternate contact: Suhana Bafna · bafnasuhana@gmail.com · 8602296230</sup></sub>
