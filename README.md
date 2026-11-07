@@ -1,74 +1,102 @@
 <div align="center">
 
-# Ratnesh P
+# Ratnesh Patnaik
 
-**Final-year B.E. student at I²IT Pune (GPA: 9.38/10)**  
-**Backend & Systems Engineering · Security-minded Software Development**
+**Final-year B.E. Computer Science & Engineering · I²IT Pune, Pune University · GPA: 9.38/10**
 
-[LinkedIn](https://linkedin.com/in/rpatnaik1122) · [Email](mailto:ratneshp1108@gmail.com) · [LeetCode](https://leetcode.com/u/ratneshS0411) · [Codeforces](https://codeforces.com/profile/ratneshp411) · [CodeChef](https://www.codechef.com/users/ratneshs0411)
+**Backend & Distributed Systems Engineering · Cloud Security · Security Research**
+
+Building reliable, observable, and security-focused software—from event-driven platforms to cloud telemetry and WebAssembly runtimes.
+
+[LinkedIn](https://linkedin.com/in/rpatnaik1122) · [Email](mailto:ratneshp1108@gmail.com) · [LeetCode](https://leetcode.com/u/ratneshS0411) · [Codeforces](https://codeforces.com/profile/ratneshp411) · [CodeChef](https://www.codechef.com/users/ratneshs0411) · [TryHackMe](https://tryhackme.com/p/Ratnesh.p)
 
 </div>
 
 ## About
 
-I build backend and platform software where reliability, access control, observability, and security matter. My recent work includes an administrative platform for a nonprofit organization, a Rust/Wasmtime WebAssembly security prototype, and an ML-based anti-money-laundering analysis pipeline.
+I design backend systems and security-focused infrastructure where **reliability, concurrency, access control, and observability** matter. My work spans event-driven Java services, distributed streaming pipelines, cloud security telemetry, and Rust-based WebAssembly isolation.
 
-I am currently targeting software engineering, backend, and systems roles where I can combine strong problem-solving with practical engineering.
+I am interested in **software engineering, backend/platform engineering, distributed systems, and cloud security** roles, with a focus on measurable performance and defensible engineering decisions.
 
 ## Experience
 
+### Oracle Cloud Infrastructure — Cybersecurity Intern (Contract)
+**June 2026 – Present · Remote**
+
+- Developed a security telemetry pipeline using Splunk correlation searches and OCI Logging Analytics to surface anomalous IAM activity and lateral-movement indicators across enterprise tenancies; measured **4–11% lower MTTD** for critical cloud alerts.
+- Used **Terraform** to manage OCI security configurations—including Security Zones, WAF rulesets, and Vault-related configuration—as reproducible, version-controlled infrastructure.
+
 ### Borderless World Foundation — Web Developer Intern
-**February 2026 – May 2026 · Pune, India**
+**February 2026 – August 2026 · Pune, India**
 
-- Developed administrative workflows spanning student and staff management, finance, community moderation, complaints, grievances, reporting, and audit history.
-- Worked with REST APIs, authentication and authorization flows, reusable interface components, testing, and collaborative Git workflows.
-- Continued contributing after the internship; a later merged contribution delivered a 19-page Next.js/TypeScript admin portal across 27 changed files with JWT role gating and shared administrative components.
+- Built a **19-page Next.js/TypeScript administrative portal** for student and staff management, finance, community moderation, grievances, reporting, and audit logs, with JWT role-gated access and reusable UI components.
+- Developed asynchronous content-moderation and concurrent audit/reporting workflows, with indexed database access and **no message loss in load tests**.
+- Kept API latency below **200 ms** in load tests and achieved **90%+ Jest coverage** for core business modules.
 
-**Public evidence:** [Merged PR #37](https://github.com/BWF-interns/BWF-Web-Dashboard/pull/37) · [BWF organization](https://github.com/BWF-interns)
+**Public contribution:** [Merged PR #37](https://github.com/BWF-interns/BWF-Web-Dashboard/pull/37) · [BWF repository](https://github.com/BWF-interns/BWF-Web-Dashboard)
+
+### Palo Alto Networks — Cybersecurity Intern
+**January 2026 – March 2026 · Remote**
+
+- Built a Python anomaly-detection pipeline correlating Cortex XDR telemetry to identify lateral-movement patterns; reduced manual triage time by approximately **50% in test SOC scenarios**.
 
 ## Selected Engineering Work
+
+### SignalForge — Real-Time Messaging & Analytics
+**Java · Kafka · Spark Structured Streaming · PostgreSQL**
+
+Event-processing pipeline supporting callback deduplication, out-of-order lifecycle reconstruction, schema-failure quarantine, and windowed analytics. Load-tested with a synthetic generator at **35,000+ events/second**.
+
+### PayFlow — Event-Driven Payment Platform
+**Java · Spring Boot · PostgreSQL · Kafka · Redis**
+
+Solo-built payment backend with idempotent APIs, a transactional outbox, rate limiting, RBAC, and a double-entry ledger. Benchmarked at **1,200+ requests/second with p99 latency below 35 ms** in a local Docker workload.
+
+### [QuantumWarden](https://github.com/Ratneshp1122/QuantumWarden) — WebAssembly Security Runtime
+**Rust · Wasmtime · WebAssembly · SHA-256 · GitHub Actions**
+
+Security prototype incorporating integrity verification, function allowlists, input-range validation, opcode/import analysis, structured JSON telemetry, and automated CI checks.
+
+### Distributed Telemetry & Bottleneck Detection Platform
+**Java · Spring Boot · Python · PostgreSQL · Prometheus · Grafana**
+
+Telemetry ingestion and analysis platform combining Pandas ETL, PostgreSQL storage, monitoring dashboards, and Isolation Forest-based anomaly alerts.
 
 ### [BWF Admin Portal](https://github.com/BWF-interns/BWF-Web-Dashboard/pull/37)
 **Next.js · TypeScript · REST APIs · JWT · RBAC**
 
-A 19-page administrative portal covering student and staff operations, finance, content moderation, activities, complaints, grievances, reports, and audit logs. The merged contribution added reusable authentication, navigation, loading, modal, and status components.
+19-page nonprofit operations portal with role-gated authentication, shared administrative components, financial workflows, complaints, reports, and audit-history views.
 
-### [AML Forensic Platform](https://github.com/Ratneshp1122/aml-forensic-platform)
-**Python · XGBoost · GraphSAGE · FastAPI · NetworkX**
+### Research & Prototypes
 
-An experimental transaction-risk analysis pipeline combining forensic ratios, graph motifs, gradient-boosted classification, and graph neural networks. Includes reproducible notebooks, schema adapters, screening services, and audit-oriented API patterns.
+- **PQMigrate:** Evidence-driven, abstention-aware planning for post-quantum cryptographic migration; research submission under review.
+- **[AML Forensic Platform](https://github.com/Ratneshp1122/aml-forensic-platform):** Experimental transaction-risk pipeline combining XGBoost, GraphSAGE, graph motifs, FastAPI services, and audit-oriented workflows.
+- **[Agent Audit Protocol](https://github.com/Ratneshp1122/aap-hela):** Hackathon prototype for verifiable autonomous-agent decision records using hash chains, IPFS, and blockchain anchoring.
 
-### [QuantumWarden](https://github.com/Ratneshp1122/QuantumWarden)
-**Rust · Wasmtime · WebAssembly · SHA-256 · Telemetry**
+## Research & Recognition
 
-A security research prototype for inspecting and executing WebAssembly plugins with policy manifests, integrity verification, opcode analysis, structured telemetry, and rule-based risk classification.
+- **PQMigrate: Evidence-Driven and Abstention-Aware Planning for Post-Quantum Cryptographic Migration** — submitted to **PPT-PQC 2027**; review pending.
+- **Copyright application:** *Empowering the Visually Impaired*, Copyright Office of India, Diary No. **16259/2024-CO/L** (co-applicant; filed 21 May 2024).
+- **National hackathon runner-up:** AISSMS AI/IoT assistive navigation project (200 participating teams).
+- **GDG on Campus:** Cybersecurity & Cloud Lead (September 2025 – June 2026).
 
-### [Agent Audit Protocol](https://github.com/Ratneshp1122/aap-hela)
-**Python · FastAPI · Solidity · IPFS · Hash Chains**
+## Technical Skills
 
-A hackathon prototype for recording, verifying, and challenging autonomous-agent decisions using structured audit records, cryptographic hashes, off-chain storage, and blockchain anchoring.
+- **Languages:** Java, Python, Rust, C++, TypeScript/JavaScript, SQL, Bash
+- **Backend & Data:** Spring Boot, Kafka, Spark Structured Streaming, PostgreSQL, Redis, REST APIs
+- **Cloud & DevOps:** OCI, AWS, GCP, Terraform, Docker, GitHub Actions
+- **Observability & Security:** Splunk, Cortex XDR, Prometheus, Grafana, IAM, RBAC, threat modeling
+- **Foundations:** Data structures & algorithms, concurrency, operating systems, DBMS, computer networks
 
-## Core Skills
+## Competitive Programming & Security
 
-- **Languages:** Java, Python, C++, TypeScript/JavaScript, SQL, Rust
-- **Backend:** Spring Boot, Node.js/Express, FastAPI, REST APIs, PostgreSQL, MongoDB, Redis
-- **Engineering:** Git, Docker, CI/CD, automated testing, concurrency, debugging
-- **Observability & Security:** Prometheus, Grafana, structured telemetry, access control, threat-aware design
-- **Foundations:** Data structures and algorithms, OOP, DBMS, operating systems, computer networks
-
-## Problem Solving
-
-- [Codeforces](https://codeforces.com/profile/ratneshp411)
-- [CodeChef](https://www.codechef.com/users/ratneshs0411)
-- [LeetCode](https://leetcode.com/u/ratneshS0411)
-
-## Leadership & Recognition
-
-- GDG Lead — Cloud & Cybersecurity, I²IT Pune
-- National hackathon runner-up for an AI/IoT navigation system for visually impaired users
-- TryHackMe global top 1%
+- **LeetCode:** [411 problems solved · 1830 contest rating · top 7.23%](https://leetcode.com/u/ratneshS0411)
+- **Codeforces:** [1600+ contest rating](https://codeforces.com/profile/ratneshp411)
+- **CodeChef:** [Profile](https://www.codechef.com/users/ratneshs0411)
+- **TryHackMe:** [Global rank ~11,000](https://tryhackme.com/p/Ratnesh.p)
 
 ## Contact
 
-- Email: [ratneshp1108@gmail.com](mailto:ratneshp1108@gmail.com)
-- LinkedIn: [linkedin.com/in/rpatnaik1122](https://linkedin.com/in/rpatnaik1122)
+Open to backend, platform, systems, and security-focused software engineering opportunities.
+
+[Email](mailto:ratneshp1108@gmail.com) · [LinkedIn](https://linkedin.com/in/rpatnaik1122)
